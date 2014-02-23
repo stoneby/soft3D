@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "soft3D", "soft3D\soft3D.vcxproj", "{D8788AF4-2194-46C6-9669-78CA865D8514}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "openGL", "openGL\openGL.vcxproj", "{25B399D4-2F38-43E6-8FB4-6D9448726C2F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SCore", "SCore\SCore.vcxproj", "{01ECEF04-E17E-463C-8E1E-6276A5B0786F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SEngine", "SEngine\SEngine.vcxproj", "{C9BEE0BD-2E7D-43A9-9836-32212ABF498F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SGame", "SGame\SGame.vcxproj", "{E70D2D2E-C56A-4D6C-B118-2AFFE16D19A9}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		Test|Win32 = Test|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8788AF4-2194-46C6-9669-78CA865D8514}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D8788AF4-2194-46C6-9669-78CA865D8514}.Debug|Win32.Build.0 = Debug|Win32
+		{D8788AF4-2194-46C6-9669-78CA865D8514}.Release|Win32.ActiveCfg = Release|Win32
+		{D8788AF4-2194-46C6-9669-78CA865D8514}.Release|Win32.Build.0 = Release|Win32
+		{D8788AF4-2194-46C6-9669-78CA865D8514}.Test|Win32.ActiveCfg = Test|Win32
+		{D8788AF4-2194-46C6-9669-78CA865D8514}.Test|Win32.Build.0 = Test|Win32
+		{25B399D4-2F38-43E6-8FB4-6D9448726C2F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{25B399D4-2F38-43E6-8FB4-6D9448726C2F}.Debug|Win32.Build.0 = Debug|Win32
+		{25B399D4-2F38-43E6-8FB4-6D9448726C2F}.Release|Win32.ActiveCfg = Release|Win32
+		{25B399D4-2F38-43E6-8FB4-6D9448726C2F}.Release|Win32.Build.0 = Release|Win32
+		{25B399D4-2F38-43E6-8FB4-6D9448726C2F}.Test|Win32.ActiveCfg = Release|Win32
+		{25B399D4-2F38-43E6-8FB4-6D9448726C2F}.Test|Win32.Build.0 = Release|Win32
+		{01ECEF04-E17E-463C-8E1E-6276A5B0786F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{01ECEF04-E17E-463C-8E1E-6276A5B0786F}.Debug|Win32.Build.0 = Debug|Win32
+		{01ECEF04-E17E-463C-8E1E-6276A5B0786F}.Release|Win32.ActiveCfg = Release|Win32
+		{01ECEF04-E17E-463C-8E1E-6276A5B0786F}.Release|Win32.Build.0 = Release|Win32
+		{01ECEF04-E17E-463C-8E1E-6276A5B0786F}.Test|Win32.ActiveCfg = Release|Win32
+		{01ECEF04-E17E-463C-8E1E-6276A5B0786F}.Test|Win32.Build.0 = Release|Win32
+		{C9BEE0BD-2E7D-43A9-9836-32212ABF498F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C9BEE0BD-2E7D-43A9-9836-32212ABF498F}.Debug|Win32.Build.0 = Debug|Win32
+		{C9BEE0BD-2E7D-43A9-9836-32212ABF498F}.Release|Win32.ActiveCfg = Release|Win32
+		{C9BEE0BD-2E7D-43A9-9836-32212ABF498F}.Release|Win32.Build.0 = Release|Win32
+		{C9BEE0BD-2E7D-43A9-9836-32212ABF498F}.Test|Win32.ActiveCfg = Release|Win32
+		{C9BEE0BD-2E7D-43A9-9836-32212ABF498F}.Test|Win32.Build.0 = Release|Win32
+		{E70D2D2E-C56A-4D6C-B118-2AFFE16D19A9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E70D2D2E-C56A-4D6C-B118-2AFFE16D19A9}.Debug|Win32.Build.0 = Debug|Win32
+		{E70D2D2E-C56A-4D6C-B118-2AFFE16D19A9}.Release|Win32.ActiveCfg = Release|Win32
+		{E70D2D2E-C56A-4D6C-B118-2AFFE16D19A9}.Release|Win32.Build.0 = Release|Win32
+		{E70D2D2E-C56A-4D6C-B118-2AFFE16D19A9}.Test|Win32.ActiveCfg = Release|Win32
+		{E70D2D2E-C56A-4D6C-B118-2AFFE16D19A9}.Test|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
